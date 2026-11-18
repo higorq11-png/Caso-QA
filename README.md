@@ -1,6 +1,6 @@
-# Teste Técnico de QA — Verzel Store
+# Análise de QA — Verzel Store
 
-Este repositório reúne os artefatos desenvolvidos para o teste técnico de QA da Verzel, incluindo cenários e evidências de execução, relatórios de bugs, testes de API e automações com Playwright.
+Este repositório reúne os artefatos desenvolvidos para uma análise de QA do site (https://verzel-store.qa-test-verzel-store.workers.dev/), incluindo cenários e evidências de execução, relatórios de bugs, testes de API e automações com Playwright.
 
 ## Organização dos artefatos
 
@@ -56,7 +56,7 @@ As automações foram desenvolvidas com **Playwright** e estão no diretório `v
 
 ### 1. Acessar os arquivos
 
-1. Abra o [repositório do projeto no GitHub](https://github.com/higorq11-png/teste-verzel-QA).
+1. Abra o [repositório do projeto no GitHub](https://github.com/higorq11-png/Caso-QA).
 2. Faça download da pasta `verzel-store-automacao/`.
 3. Abra a pasta `tests/` para consultar os arquivos de automação.
 
